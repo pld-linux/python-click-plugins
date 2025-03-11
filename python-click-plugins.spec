@@ -8,7 +8,7 @@ Summary:	Extension module for click to enable registering CLI commands via setup
 Summary(pl.UTF-8):	Moduł rozszerzenia clicka pozwalający rejestrować polecenia CLI poprzez punkty wejściowe setuptools
 Name:		python-click-plugins
 Version:	1.1.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/click-plugins/
